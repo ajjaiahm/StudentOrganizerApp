@@ -1,0 +1,6 @@
+﻿<resources>
+    <style name="Theme.StudentOrganizerApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#1E1B4B</item>
+        <item name="android:navigationBarColor">#0F172A</item>
+    </style>
+</resources>
